@@ -1,4 +1,4 @@
-package model;
+package id.sch.smktelkom_mlg.learn.recyclerview1.model;
 
 import android.graphics.drawable.Drawable;
 
